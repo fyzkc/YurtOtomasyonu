@@ -1,0 +1,8 @@
+öğrenci girişleri 
+ayşe yılmaz = kullanıcı adı= 12345678910 şifre = ayşe
+elif aydın = kullanıcı adı= 11111111111 şifre = elif
+rabia ışık = kullanıcı adı= 10101010101 şifre = rabia
+
+admin girişi
+
+kullanıcı adı = admin şifre = 12345
